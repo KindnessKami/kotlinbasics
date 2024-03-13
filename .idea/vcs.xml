@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="VcsDirectoryMappings">
+    <mapping directory="$PROJECT_DIR$/.." vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/../Boot_Django" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/../Djangobootstrap" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/../JinjaNess" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/../Kindness" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/../Kindness' project" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/../djangotemp" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/../kami" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/../ness python/pythonProject" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/../restaurant-website" vcs="Git" />
+  </component>
+</project>
