@@ -3,7 +3,7 @@ fun main(args: Array<String>){
         println(n)
     }
     var myarr2= arrayOf("Kenya","Tanzania","Uganda")
-    for (nch in myarr2){
-        println(nch)
+    for (nchi in myarr2){
+        println(nchi)
     }
 }
